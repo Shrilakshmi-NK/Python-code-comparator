@@ -1,4 +1,4 @@
-# ferens
+# Python code comparator
 A code comparing platform for beginner coders. The aim is to lets beginner coders understand the their practice codes better and have a positive learning experience.
 
 ## Technologies Used
